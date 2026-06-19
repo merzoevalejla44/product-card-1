@@ -1,1 +1,1 @@
-# feature/01-homework
+# The project was created for layout of product cards
